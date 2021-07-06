@@ -1,6 +1,6 @@
-public class Cody extends GitHubUser {
+public class PanchitoMC extends GitHubUser {
 
-  public Cody() {
+  public PanchitoMC() {
     super("PanchitoMC", "Belgium");
 
     this.addLanguage("HTML", "CSS", "Java")
